@@ -9,27 +9,24 @@
     "openshift"
   ],
   "author": {
-    "name": "ramr",
-    "email": "ramr@example.org",
-    "url":  "http://www.openshift.com/"
+    "name": "Eduardo Mazolini",
+    "email": "eduardo@mazolini.com.br",
+    "url": "http://blog.mazolini.com.br"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "http://blog.mazolini.com.br",
   "repository": {
     "type": "git",
-    "url": "https://gitub.com/ramr/nodejs-custom-version-openshift"
+    "url": "https://github.com/eduardomazolini/nodejs-openShift"
   },
-
   "engines": {
     "node": ">= 0.6.0",
     "npm": ">= 1.0.0"
   },
-
   "dependencies": {
     "express": "*"
   },
   "devDependencies": {},
   "bundleDependencies": [],
-
   "private": true,
   "main": "server.js"
 }
